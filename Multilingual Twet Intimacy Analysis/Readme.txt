@@ -1,0 +1,1 @@
+This folder contains sklearn models and pre-trained models from hugging face transformer library for predicting multilingual tweet intimacy analysis. The Dataset zipfile consists of train and test dataset. Import all the files into colab and run them to get the pearson's R coefficient for the respective models.
